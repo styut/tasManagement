@@ -1,0 +1,120 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+    margin: 0;
+    padding: 0;
+    width: 60%;
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+    color: #333;
+}
+
+form {
+    margin: 20px auto;
+    width: 80%;
+    text-align: center;
+}
+
+input[type="text"],
+input[type="password"],
+input[type="submit"] {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    box-sizing: border-box;
+}
+
+input[type="submit"] {
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+table {
+    margin: 20px auto;
+    border-collapse: collapse;
+    width: 80%;
+}
+
+th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+}
+
+th {
+    background-color: #f2f2f2;
+}
+
+#users {
+    margin: 20px auto;
+    width: 80%;
+    background-color: #fff;
+    padding: 20px;
+}
+#deleteButtonId{
+    display: block;
+    width: 80px;
+    margin: 10px auto;
+    text-align: center;
+    padding: 10px;
+    background-color: #4CAF50;
+    color: white;
+    text-decoration: none;
+    border:none;
+}
+#deleteButtonId:hover {
+    
+    background-color: #045c07;
+}
+a  {
+    display: block;
+    width: 100px;
+    margin: 20px auto;
+    text-align: center;
+    padding: 10px;
+    background-color: #4CAF50;
+    color: white;
+    text-decoration: none;
+}
+
+a:hover {
+    background-color: #045c07;
+}
+#counter{
+    text-align: center;
+    font-size: larger;
+    margin: 20px auto;
+    color:#4CAF50;
+}
+#deleteButtonId {
+    display: block;
+    width: 100px;
+    margin: 20px auto;
+    text-align: center;
+    padding: 10px;
+    background-color: #4CAF50;
+    color: white;
+    text-decoration: none;
+}
+#deleteButtonId :hover{
+    background-color: #045c07;
+}
+#editButtonId{
+    display: block;
+    width: 100px;
+    margin: 20px auto;
+    text-align: center;
+    padding: 10px;
+    background-color: #4CAF50;
+    color: white;
+    text-decoration: none;
+}
+#editButtonId :hover{
+    background-color: #045c07;
+}

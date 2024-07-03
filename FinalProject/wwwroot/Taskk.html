@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <title>Task CRUD</title>
+    <link rel="stylesheet" href="css/Taskk.css" />
+</head>
+
+<body>
+    <h1>Task CRUD</h1>
+    <button type="button" id="edit-user" onclick="showEdit()">edit-user</button>
+    <div id="editFormUser" hidden>
+        <form action="javascript:void(0);" onsubmit="editUser()">
+            <input type="text" id="edit_name" placeholder="enter Your name">
+            <input type="password" id="edit_password" placeholder="enter Your password">
+            <input onclick="closeInputUser()"  type="submit" value="Save">
+            <a onclick="closeInputUser()" aria-label="Close">&#10006;</a>
+        </form>
+    </div>
+    <h3>Add New Task</h3>
+    <form action="javascript:void(0);" method="POST" onsubmit="addItem()">
+        <input type="text" id="add-name" placeholder="New Task">
+        <input type="submit" value="Add">
+    </form>
+    <div id="editForm">
+        <h3>Edit</h3>
+        <form action="javascript:void(0);" onsubmit="updateItem()">
+            <input type="hidden" id="edit-id">
+            <input type="hidden" id="edit-userId">
+            <input type="checkbox" id="edit-isGlutenFree">
+            <input type="text" id="edit-name">
+            <input type="submit" value="Save">
+            <a onclick="closeInput()" aria-label="Close">&#10006;</a>
+        </form>
+    </div>
+    <p id="counter"></p>
+
+    <table>
+        <tr>
+            <th>Is Doing</th>
+            <th>Name</th>
+            <th></th>
+            <th></th>
+        </tr>
+        <tbody id="Tasks"></tbody>
+    </table>
+
+    <script src="js/site.js" asp-append-version="true"></script>
+    <script type="text/javascript">
+        getItems();
+    </script>
+    <br>
+    <button id="buttonUsers" type="button" onclick="toUsrers()">למשתמשים</button>
+</body>
+
+</html>

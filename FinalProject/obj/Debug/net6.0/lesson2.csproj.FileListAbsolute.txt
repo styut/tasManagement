@@ -1,0 +1,252 @@
+Z:\B\ליהמן אסתר\Core\lesson2\bin\Debug\net6.0\appsettings.Development.json
+Z:\B\ליהמן אסתר\Core\lesson2\bin\Debug\net6.0\appsettings.json
+Z:\B\ליהמן אסתר\Core\lesson2\bin\Debug\net6.0\lesson2.exe
+Z:\B\ליהמן אסתר\Core\lesson2\bin\Debug\net6.0\lesson2.deps.json
+Z:\B\ליהמן אסתר\Core\lesson2\bin\Debug\net6.0\lesson2.runtimeconfig.json
+Z:\B\ליהמן אסתר\Core\lesson2\bin\Debug\net6.0\lesson2.dll
+Z:\B\ליהמן אסתר\Core\lesson2\bin\Debug\net6.0\lesson2.pdb
+Z:\B\ליהמן אסתר\Core\lesson2\bin\Debug\net6.0\Microsoft.OpenApi.dll
+Z:\B\ליהמן אסתר\Core\lesson2\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+Z:\B\ליהמן אסתר\Core\lesson2\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+Z:\B\ליהמן אסתר\Core\lesson2\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+Z:\B\ליהמן אסתר\Core\lesson2\obj\Debug\net6.0\lesson2.csproj.AssemblyReference.cache
+Z:\B\ליהמן אסתר\Core\lesson2\obj\Debug\net6.0\lesson2.GeneratedMSBuildEditorConfig.editorconfig
+Z:\B\ליהמן אסתר\Core\lesson2\obj\Debug\net6.0\lesson2.AssemblyInfoInputs.cache
+Z:\B\ליהמן אסתר\Core\lesson2\obj\Debug\net6.0\lesson2.AssemblyInfo.cs
+Z:\B\ליהמן אסתר\Core\lesson2\obj\Debug\net6.0\lesson2.csproj.CoreCompileInputs.cache
+Z:\B\ליהמן אסתר\Core\lesson2\obj\Debug\net6.0\lesson2.MvcApplicationPartsAssemblyInfo.cs
+Z:\B\ליהמן אסתר\Core\lesson2\obj\Debug\net6.0\lesson2.MvcApplicationPartsAssemblyInfo.cache
+Z:\B\ליהמן אסתר\Core\lesson2\obj\Debug\net6.0\staticwebassets.build.json
+Z:\B\ליהמן אסתר\Core\lesson2\obj\Debug\net6.0\staticwebassets.development.json
+Z:\B\ליהמן אסתר\Core\lesson2\obj\Debug\net6.0\scopedcss\bundle\lesson2.styles.css
+Z:\B\ליהמן אסתר\Core\lesson2\obj\Debug\net6.0\lesson2.csproj.CopyComplete
+Z:\B\ליהמן אסתר\Core\lesson2\obj\Debug\net6.0\lesson2.dll
+Z:\B\ליהמן אסתר\Core\lesson2\obj\Debug\net6.0\refint\lesson2.dll
+Z:\B\ליהמן אסתר\Core\lesson2\obj\Debug\net6.0\lesson2.pdb
+Z:\B\ליהמן אסתר\Core\lesson2\obj\Debug\net6.0\lesson2.genruntimeconfig.cache
+Z:\B\ליהמן אסתר\Core\lesson2\obj\Debug\net6.0\ref\lesson2.dll
+Z:\B\ליהמן אסתר\Core\lesson3\obj\Debug\net6.0\lesson2.csproj.AssemblyReference.cache
+Z:\B\ליהמן אסתר\Core\lesson3\obj\Debug\net6.0\lesson2.GeneratedMSBuildEditorConfig.editorconfig
+Z:\B\ליהמן אסתר\Core\lesson3\obj\Debug\net6.0\lesson2.AssemblyInfoInputs.cache
+Z:\B\ליהמן אסתר\Core\lesson3\obj\Debug\net6.0\lesson2.AssemblyInfo.cs
+Z:\B\ליהמן אסתר\Core\lesson3\obj\Debug\net6.0\lesson2.csproj.CoreCompileInputs.cache
+Z:\B\ליהמן אסתר\Core\lesson3\obj\Debug\net6.0\lesson2.MvcApplicationPartsAssemblyInfo.cs
+Z:\B\ליהמן אסתר\Core\lesson3\obj\Debug\net6.0\lesson2.MvcApplicationPartsAssemblyInfo.cache
+Z:\B\ליהמן אסתר\Core\lesson3\obj\Debug\net6.0\lesson2.dll
+Z:\B\ליהמן אסתר\Core\lesson3\obj\Debug\net6.0\refint\lesson2.dll
+Z:\B\ליהמן אסתר\Core\lesson3\obj\Debug\net6.0\lesson2.pdb
+Z:\B\ליהמן אסתר\Core\lesson3\bin\Debug\net6.0\appsettings.Development.json
+Z:\B\ליהמן אסתר\Core\lesson3\bin\Debug\net6.0\appsettings.json
+Z:\B\ליהמן אסתר\Core\lesson3\bin\Debug\net6.0\lesson2.staticwebassets.runtime.json
+Z:\B\ליהמן אסתר\Core\lesson3\bin\Debug\net6.0\lesson2.exe
+Z:\B\ליהמן אסתר\Core\lesson3\bin\Debug\net6.0\lesson2.deps.json
+Z:\B\ליהמן אסתר\Core\lesson3\bin\Debug\net6.0\lesson2.runtimeconfig.json
+Z:\B\ליהמן אסתר\Core\lesson3\bin\Debug\net6.0\lesson2.dll
+Z:\B\ליהמן אסתר\Core\lesson3\bin\Debug\net6.0\lesson2.pdb
+Z:\B\ליהמן אסתר\Core\lesson3\bin\Debug\net6.0\Microsoft.OpenApi.dll
+Z:\B\ליהמן אסתר\Core\lesson3\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+Z:\B\ליהמן אסתר\Core\lesson3\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+Z:\B\ליהמן אסתר\Core\lesson3\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+Z:\B\ליהמן אסתר\Core\lesson3\obj\Debug\net6.0\staticwebassets.build.json
+Z:\B\ליהמן אסתר\Core\lesson3\obj\Debug\net6.0\staticwebassets.development.json
+Z:\B\ליהמן אסתר\Core\lesson3\obj\Debug\net6.0\staticwebassets\msbuild.lesson2.Microsoft.AspNetCore.StaticWebAssets.props
+Z:\B\ליהמן אסתר\Core\lesson3\obj\Debug\net6.0\staticwebassets\msbuild.build.lesson2.props
+Z:\B\ליהמן אסתר\Core\lesson3\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.lesson2.props
+Z:\B\ליהמן אסתר\Core\lesson3\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.lesson2.props
+Z:\B\ליהמן אסתר\Core\lesson3\obj\Debug\net6.0\staticwebassets.pack.json
+Z:\B\ליהמן אסתר\Core\lesson3\obj\Debug\net6.0\scopedcss\bundle\lesson2.styles.css
+Z:\B\ליהמן אסתר\Core\lesson3\obj\Debug\net6.0\lesson2.csproj.CopyComplete
+Z:\B\ליהמן אסתר\Core\lesson3\obj\Debug\net6.0\lesson2.genruntimeconfig.cache
+Z:\B\ליהמן אסתר\Core\lesson3\obj\Debug\net6.0\ref\lesson2.dll
+Z:\B\ליהמן אסתר\Core\lesson3\bin\Debug\net6.0\Data\Taskk.json
+D:\Core\שיעורי בית\lesson3\bin\Debug\net6.0\appsettings.Development.json
+D:\Core\שיעורי בית\lesson3\bin\Debug\net6.0\appsettings.json
+D:\Core\שיעורי בית\lesson3\bin\Debug\net6.0\Data\Taskk.json
+D:\Core\שיעורי בית\lesson3\bin\Debug\net6.0\lesson2.staticwebassets.runtime.json
+D:\Core\שיעורי בית\lesson3\bin\Debug\net6.0\lesson2.exe
+D:\Core\שיעורי בית\lesson3\bin\Debug\net6.0\lesson2.deps.json
+D:\Core\שיעורי בית\lesson3\bin\Debug\net6.0\lesson2.runtimeconfig.json
+D:\Core\שיעורי בית\lesson3\bin\Debug\net6.0\lesson2.dll
+D:\Core\שיעורי בית\lesson3\bin\Debug\net6.0\lesson2.pdb
+D:\Core\שיעורי בית\lesson3\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Core\שיעורי בית\lesson3\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Core\שיעורי בית\lesson3\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Core\שיעורי בית\lesson3\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Core\שיעורי בית\lesson3\obj\Debug\net6.0\lesson2.csproj.AssemblyReference.cache
+D:\Core\שיעורי בית\lesson3\obj\Debug\net6.0\lesson2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Core\שיעורי בית\lesson3\obj\Debug\net6.0\lesson2.AssemblyInfoInputs.cache
+D:\Core\שיעורי בית\lesson3\obj\Debug\net6.0\lesson2.AssemblyInfo.cs
+D:\Core\שיעורי בית\lesson3\obj\Debug\net6.0\lesson2.csproj.CoreCompileInputs.cache
+D:\Core\שיעורי בית\lesson3\obj\Debug\net6.0\lesson2.MvcApplicationPartsAssemblyInfo.cs
+D:\Core\שיעורי בית\lesson3\obj\Debug\net6.0\lesson2.MvcApplicationPartsAssemblyInfo.cache
+D:\Core\שיעורי בית\lesson3\obj\Debug\net6.0\staticwebassets.build.json
+D:\Core\שיעורי בית\lesson3\obj\Debug\net6.0\staticwebassets.development.json
+D:\Core\שיעורי בית\lesson3\obj\Debug\net6.0\scopedcss\bundle\lesson2.styles.css
+D:\Core\שיעורי בית\lesson3\obj\Debug\net6.0\lesson2.csproj.CopyComplete
+D:\Core\שיעורי בית\lesson3\obj\Debug\net6.0\lesson2.dll
+D:\Core\שיעורי בית\lesson3\obj\Debug\net6.0\refint\lesson2.dll
+D:\Core\שיעורי בית\lesson3\obj\Debug\net6.0\lesson2.pdb
+D:\Core\שיעורי בית\lesson3\obj\Debug\net6.0\lesson2.genruntimeconfig.cache
+D:\Core\שיעורי בית\lesson3\obj\Debug\net6.0\ref\lesson2.dll
+C:\Users\יפה\Desktop\lesson3\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\יפה\Desktop\lesson3\bin\Debug\net6.0\appsettings.json
+C:\Users\יפה\Desktop\lesson3\bin\Debug\net6.0\Data\Taskk.json
+C:\Users\יפה\Desktop\lesson3\bin\Debug\net6.0\lesson2.staticwebassets.runtime.json
+C:\Users\יפה\Desktop\lesson3\bin\Debug\net6.0\lesson2.exe
+C:\Users\יפה\Desktop\lesson3\bin\Debug\net6.0\lesson2.deps.json
+C:\Users\יפה\Desktop\lesson3\bin\Debug\net6.0\lesson2.runtimeconfig.json
+C:\Users\יפה\Desktop\lesson3\bin\Debug\net6.0\lesson2.dll
+C:\Users\יפה\Desktop\lesson3\bin\Debug\net6.0\lesson2.pdb
+C:\Users\יפה\Desktop\lesson3\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\יפה\Desktop\lesson3\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\יפה\Desktop\lesson3\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\יפה\Desktop\lesson3\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\יפה\Desktop\lesson3\obj\Debug\net6.0\lesson2.csproj.AssemblyReference.cache
+C:\Users\יפה\Desktop\lesson3\obj\Debug\net6.0\lesson2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\יפה\Desktop\lesson3\obj\Debug\net6.0\lesson2.AssemblyInfoInputs.cache
+C:\Users\יפה\Desktop\lesson3\obj\Debug\net6.0\lesson2.AssemblyInfo.cs
+C:\Users\יפה\Desktop\lesson3\obj\Debug\net6.0\lesson2.csproj.CoreCompileInputs.cache
+C:\Users\יפה\Desktop\lesson3\obj\Debug\net6.0\lesson2.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\יפה\Desktop\lesson3\obj\Debug\net6.0\lesson2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\יפה\Desktop\lesson3\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\יפה\Desktop\lesson3\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\יפה\Desktop\lesson3\obj\Debug\net6.0\scopedcss\bundle\lesson2.styles.css
+C:\Users\יפה\Desktop\lesson3\obj\Debug\net6.0\lesson2.csproj.CopyComplete
+C:\Users\יפה\Desktop\lesson3\obj\Debug\net6.0\lesson2.dll
+C:\Users\יפה\Desktop\lesson3\obj\Debug\net6.0\refint\lesson2.dll
+C:\Users\יפה\Desktop\lesson3\obj\Debug\net6.0\lesson2.pdb
+C:\Users\יפה\Desktop\lesson3\obj\Debug\net6.0\lesson2.genruntimeconfig.cache
+C:\Users\יפה\Desktop\lesson3\obj\Debug\net6.0\ref\lesson2.dll
+C:\Users\USER\Desktop\אתי תיכנות\יד\DotnetCore\ניסוי\lesson3\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\USER\Desktop\אתי תיכנות\יד\DotnetCore\ניסוי\lesson3\bin\Debug\net6.0\appsettings.json
+C:\Users\USER\Desktop\אתי תיכנות\יד\DotnetCore\ניסוי\lesson3\bin\Debug\net6.0\Data\Taskk.json
+C:\Users\USER\Desktop\אתי תיכנות\יד\DotnetCore\ניסוי\lesson3\bin\Debug\net6.0\lesson2.staticwebassets.runtime.json
+C:\Users\USER\Desktop\אתי תיכנות\יד\DotnetCore\ניסוי\lesson3\bin\Debug\net6.0\lesson2.exe
+C:\Users\USER\Desktop\אתי תיכנות\יד\DotnetCore\ניסוי\lesson3\bin\Debug\net6.0\lesson2.deps.json
+C:\Users\USER\Desktop\אתי תיכנות\יד\DotnetCore\ניסוי\lesson3\bin\Debug\net6.0\lesson2.runtimeconfig.json
+C:\Users\USER\Desktop\אתי תיכנות\יד\DotnetCore\ניסוי\lesson3\bin\Debug\net6.0\lesson2.dll
+C:\Users\USER\Desktop\אתי תיכנות\יד\DotnetCore\ניסוי\lesson3\bin\Debug\net6.0\lesson2.pdb
+C:\Users\USER\Desktop\אתי תיכנות\יד\DotnetCore\ניסוי\lesson3\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\USER\Desktop\אתי תיכנות\יד\DotnetCore\ניסוי\lesson3\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\USER\Desktop\אתי תיכנות\יד\DotnetCore\ניסוי\lesson3\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\USER\Desktop\אתי תיכנות\יד\DotnetCore\ניסוי\lesson3\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\USER\Desktop\אתי תיכנות\יד\DotnetCore\ניסוי\lesson3\obj\Debug\net6.0\lesson2.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\אתי תיכנות\יד\DotnetCore\ניסוי\lesson3\obj\Debug\net6.0\lesson2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\אתי תיכנות\יד\DotnetCore\ניסוי\lesson3\obj\Debug\net6.0\lesson2.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\אתי תיכנות\יד\DotnetCore\ניסוי\lesson3\obj\Debug\net6.0\lesson2.AssemblyInfo.cs
+C:\Users\USER\Desktop\אתי תיכנות\יד\DotnetCore\ניסוי\lesson3\obj\Debug\net6.0\lesson2.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\אתי תיכנות\יד\DotnetCore\ניסוי\lesson3\obj\Debug\net6.0\lesson2.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\USER\Desktop\אתי תיכנות\יד\DotnetCore\ניסוי\lesson3\obj\Debug\net6.0\lesson2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\USER\Desktop\אתי תיכנות\יד\DotnetCore\ניסוי\lesson3\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\USER\Desktop\אתי תיכנות\יד\DotnetCore\ניסוי\lesson3\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\USER\Desktop\אתי תיכנות\יד\DotnetCore\ניסוי\lesson3\obj\Debug\net6.0\scopedcss\bundle\lesson2.styles.css
+C:\Users\USER\Desktop\אתי תיכנות\יד\DotnetCore\ניסוי\lesson3\obj\Debug\net6.0\lesson2.csproj.CopyComplete
+C:\Users\USER\Desktop\אתי תיכנות\יד\DotnetCore\ניסוי\lesson3\obj\Debug\net6.0\lesson2.dll
+C:\Users\USER\Desktop\אתי תיכנות\יד\DotnetCore\ניסוי\lesson3\obj\Debug\net6.0\refint\lesson2.dll
+C:\Users\USER\Desktop\אתי תיכנות\יד\DotnetCore\ניסוי\lesson3\obj\Debug\net6.0\lesson2.pdb
+C:\Users\USER\Desktop\אתי תיכנות\יד\DotnetCore\ניסוי\lesson3\obj\Debug\net6.0\lesson2.genruntimeconfig.cache
+C:\Users\USER\Desktop\אתי תיכנות\יד\DotnetCore\ניסוי\lesson3\obj\Debug\net6.0\ref\lesson2.dll
+C:\Users\USER\Desktop\אתי תיכנות\יד\DotnetCore\lesson4\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\USER\Desktop\אתי תיכנות\יד\DotnetCore\lesson4\bin\Debug\net6.0\appsettings.json
+C:\Users\USER\Desktop\אתי תיכנות\יד\DotnetCore\lesson4\bin\Debug\net6.0\Data\Taskk.json
+C:\Users\USER\Desktop\אתי תיכנות\יד\DotnetCore\lesson4\bin\Debug\net6.0\lesson2.staticwebassets.runtime.json
+C:\Users\USER\Desktop\אתי תיכנות\יד\DotnetCore\lesson4\bin\Debug\net6.0\lesson2.exe
+C:\Users\USER\Desktop\אתי תיכנות\יד\DotnetCore\lesson4\bin\Debug\net6.0\lesson2.deps.json
+C:\Users\USER\Desktop\אתי תיכנות\יד\DotnetCore\lesson4\bin\Debug\net6.0\lesson2.runtimeconfig.json
+C:\Users\USER\Desktop\אתי תיכנות\יד\DotnetCore\lesson4\bin\Debug\net6.0\lesson2.dll
+C:\Users\USER\Desktop\אתי תיכנות\יד\DotnetCore\lesson4\bin\Debug\net6.0\lesson2.pdb
+C:\Users\USER\Desktop\אתי תיכנות\יד\DotnetCore\lesson4\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\USER\Desktop\אתי תיכנות\יד\DotnetCore\lesson4\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\USER\Desktop\אתי תיכנות\יד\DotnetCore\lesson4\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\USER\Desktop\אתי תיכנות\יד\DotnetCore\lesson4\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\USER\Desktop\אתי תיכנות\יד\DotnetCore\lesson4\obj\Debug\net6.0\lesson2.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\אתי תיכנות\יד\DotnetCore\lesson4\obj\Debug\net6.0\lesson2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\אתי תיכנות\יד\DotnetCore\lesson4\obj\Debug\net6.0\lesson2.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\אתי תיכנות\יד\DotnetCore\lesson4\obj\Debug\net6.0\lesson2.AssemblyInfo.cs
+C:\Users\USER\Desktop\אתי תיכנות\יד\DotnetCore\lesson4\obj\Debug\net6.0\lesson2.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\אתי תיכנות\יד\DotnetCore\lesson4\obj\Debug\net6.0\lesson2.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\USER\Desktop\אתי תיכנות\יד\DotnetCore\lesson4\obj\Debug\net6.0\lesson2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\USER\Desktop\אתי תיכנות\יד\DotnetCore\lesson4\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\USER\Desktop\אתי תיכנות\יד\DotnetCore\lesson4\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\USER\Desktop\אתי תיכנות\יד\DotnetCore\lesson4\obj\Debug\net6.0\scopedcss\bundle\lesson2.styles.css
+C:\Users\USER\Desktop\אתי תיכנות\יד\DotnetCore\lesson4\obj\Debug\net6.0\lesson2.csproj.CopyComplete
+C:\Users\USER\Desktop\אתי תיכנות\יד\DotnetCore\lesson4\obj\Debug\net6.0\lesson2.dll
+C:\Users\USER\Desktop\אתי תיכנות\יד\DotnetCore\lesson4\obj\Debug\net6.0\refint\lesson2.dll
+C:\Users\USER\Desktop\אתי תיכנות\יד\DotnetCore\lesson4\obj\Debug\net6.0\lesson2.pdb
+C:\Users\USER\Desktop\אתי תיכנות\יד\DotnetCore\lesson4\obj\Debug\net6.0\lesson2.genruntimeconfig.cache
+C:\Users\USER\Desktop\אתי תיכנות\יד\DotnetCore\lesson4\obj\Debug\net6.0\ref\lesson2.dll
+C:\Users\USER\Desktop\אתי תיכנות\יד\DotnetCore\lesson4\bin\Debug\net6.0\Data\Logim.json
+C:\Users\USER\Desktop\אתי תיכנות\יד\DotnetCore\lesson5\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\USER\Desktop\אתי תיכנות\יד\DotnetCore\lesson5\bin\Debug\net6.0\appsettings.json
+C:\Users\USER\Desktop\אתי תיכנות\יד\DotnetCore\lesson5\bin\Debug\net6.0\Data\Taskk.json
+C:\Users\USER\Desktop\אתי תיכנות\יד\DotnetCore\lesson5\bin\Debug\net6.0\lesson2.staticwebassets.runtime.json
+C:\Users\USER\Desktop\אתי תיכנות\יד\DotnetCore\lesson5\bin\Debug\net6.0\lesson2.exe
+C:\Users\USER\Desktop\אתי תיכנות\יד\DotnetCore\lesson5\bin\Debug\net6.0\lesson2.deps.json
+C:\Users\USER\Desktop\אתי תיכנות\יד\DotnetCore\lesson5\bin\Debug\net6.0\lesson2.runtimeconfig.json
+C:\Users\USER\Desktop\אתי תיכנות\יד\DotnetCore\lesson5\bin\Debug\net6.0\lesson2.dll
+C:\Users\USER\Desktop\אתי תיכנות\יד\DotnetCore\lesson5\bin\Debug\net6.0\lesson2.pdb
+C:\Users\USER\Desktop\אתי תיכנות\יד\DotnetCore\lesson5\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\USER\Desktop\אתי תיכנות\יד\DotnetCore\lesson5\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\USER\Desktop\אתי תיכנות\יד\DotnetCore\lesson5\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\USER\Desktop\אתי תיכנות\יד\DotnetCore\lesson5\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\USER\Desktop\אתי תיכנות\יד\DotnetCore\lesson5\obj\Debug\net6.0\lesson2.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\אתי תיכנות\יד\DotnetCore\lesson5\obj\Debug\net6.0\lesson2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\אתי תיכנות\יד\DotnetCore\lesson5\obj\Debug\net6.0\lesson2.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\אתי תיכנות\יד\DotnetCore\lesson5\obj\Debug\net6.0\lesson2.AssemblyInfo.cs
+C:\Users\USER\Desktop\אתי תיכנות\יד\DotnetCore\lesson5\obj\Debug\net6.0\lesson2.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\אתי תיכנות\יד\DotnetCore\lesson5\obj\Debug\net6.0\lesson2.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\USER\Desktop\אתי תיכנות\יד\DotnetCore\lesson5\obj\Debug\net6.0\lesson2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\USER\Desktop\אתי תיכנות\יד\DotnetCore\lesson5\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\USER\Desktop\אתי תיכנות\יד\DotnetCore\lesson5\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\USER\Desktop\אתי תיכנות\יד\DotnetCore\lesson5\obj\Debug\net6.0\scopedcss\bundle\lesson2.styles.css
+C:\Users\USER\Desktop\אתי תיכנות\יד\DotnetCore\lesson5\obj\Debug\net6.0\lesson2.csproj.CopyComplete
+C:\Users\USER\Desktop\אתי תיכנות\יד\DotnetCore\lesson5\obj\Debug\net6.0\lesson2.dll
+C:\Users\USER\Desktop\אתי תיכנות\יד\DotnetCore\lesson5\obj\Debug\net6.0\refint\lesson2.dll
+C:\Users\USER\Desktop\אתי תיכנות\יד\DotnetCore\lesson5\obj\Debug\net6.0\lesson2.pdb
+C:\Users\USER\Desktop\אתי תיכנות\יד\DotnetCore\lesson5\obj\Debug\net6.0\lesson2.genruntimeconfig.cache
+C:\Users\USER\Desktop\אתי תיכנות\יד\DotnetCore\lesson5\obj\Debug\net6.0\ref\lesson2.dll
+C:\Users\USER\Desktop\אתי תיכנות\יד\DotnetCore\lesson5\bin\Debug\net6.0\Data\User.json
+C:\Users\USER\Desktop\אתי תיכנות\יד\DotnetCore\lesson5\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\USER\Desktop\אתי תיכנות\יד\DotnetCore\lesson5\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\USER\Desktop\אתי תיכנות\יד\DotnetCore\lesson5\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\USER\Desktop\אתי תיכנות\יד\DotnetCore\lesson5\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\USER\Desktop\אתי תיכנות\יד\DotnetCore\lesson5\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\USER\Desktop\אתי תיכנות\יד\DotnetCore\lesson5\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\USER\Desktop\אתי תיכנות\יד\DotnetCore\lesson5\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\USER\Desktop\אתי תיכנות\יד\DotnetCore\FinalProject\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\USER\Desktop\אתי תיכנות\יד\DotnetCore\FinalProject\bin\Debug\net6.0\appsettings.json
+C:\Users\USER\Desktop\אתי תיכנות\יד\DotnetCore\FinalProject\bin\Debug\net6.0\Data\Taskk.json
+C:\Users\USER\Desktop\אתי תיכנות\יד\DotnetCore\FinalProject\bin\Debug\net6.0\Data\User.json
+C:\Users\USER\Desktop\אתי תיכנות\יד\DotnetCore\FinalProject\bin\Debug\net6.0\lesson2.staticwebassets.runtime.json
+C:\Users\USER\Desktop\אתי תיכנות\יד\DotnetCore\FinalProject\bin\Debug\net6.0\lesson2.exe
+C:\Users\USER\Desktop\אתי תיכנות\יד\DotnetCore\FinalProject\bin\Debug\net6.0\lesson2.deps.json
+C:\Users\USER\Desktop\אתי תיכנות\יד\DotnetCore\FinalProject\bin\Debug\net6.0\lesson2.runtimeconfig.json
+C:\Users\USER\Desktop\אתי תיכנות\יד\DotnetCore\FinalProject\bin\Debug\net6.0\lesson2.dll
+C:\Users\USER\Desktop\אתי תיכנות\יד\DotnetCore\FinalProject\bin\Debug\net6.0\lesson2.pdb
+C:\Users\USER\Desktop\אתי תיכנות\יד\DotnetCore\FinalProject\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\USER\Desktop\אתי תיכנות\יד\DotnetCore\FinalProject\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\USER\Desktop\אתי תיכנות\יד\DotnetCore\FinalProject\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\USER\Desktop\אתי תיכנות\יד\DotnetCore\FinalProject\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\USER\Desktop\אתי תיכנות\יד\DotnetCore\FinalProject\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\USER\Desktop\אתי תיכנות\יד\DotnetCore\FinalProject\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\USER\Desktop\אתי תיכנות\יד\DotnetCore\FinalProject\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\USER\Desktop\אתי תיכנות\יד\DotnetCore\FinalProject\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\USER\Desktop\אתי תיכנות\יד\DotnetCore\FinalProject\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\USER\Desktop\אתי תיכנות\יד\DotnetCore\FinalProject\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\USER\Desktop\אתי תיכנות\יד\DotnetCore\FinalProject\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\USER\Desktop\אתי תיכנות\יד\DotnetCore\FinalProject\obj\Debug\net6.0\lesson2.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\אתי תיכנות\יד\DotnetCore\FinalProject\obj\Debug\net6.0\lesson2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\אתי תיכנות\יד\DotnetCore\FinalProject\obj\Debug\net6.0\lesson2.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\אתי תיכנות\יד\DotnetCore\FinalProject\obj\Debug\net6.0\lesson2.AssemblyInfo.cs
+C:\Users\USER\Desktop\אתי תיכנות\יד\DotnetCore\FinalProject\obj\Debug\net6.0\lesson2.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\אתי תיכנות\יד\DotnetCore\FinalProject\obj\Debug\net6.0\lesson2.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\USER\Desktop\אתי תיכנות\יד\DotnetCore\FinalProject\obj\Debug\net6.0\lesson2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\USER\Desktop\אתי תיכנות\יד\DotnetCore\FinalProject\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\USER\Desktop\אתי תיכנות\יד\DotnetCore\FinalProject\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\USER\Desktop\אתי תיכנות\יד\DotnetCore\FinalProject\obj\Debug\net6.0\scopedcss\bundle\lesson2.styles.css
+C:\Users\USER\Desktop\אתי תיכנות\יד\DotnetCore\FinalProject\obj\Debug\net6.0\lesson2.csproj.CopyComplete
+C:\Users\USER\Desktop\אתי תיכנות\יד\DotnetCore\FinalProject\obj\Debug\net6.0\lesson2.dll
+C:\Users\USER\Desktop\אתי תיכנות\יד\DotnetCore\FinalProject\obj\Debug\net6.0\refint\lesson2.dll
+C:\Users\USER\Desktop\אתי תיכנות\יד\DotnetCore\FinalProject\obj\Debug\net6.0\lesson2.pdb
+C:\Users\USER\Desktop\אתי תיכנות\יד\DotnetCore\FinalProject\obj\Debug\net6.0\lesson2.genruntimeconfig.cache
+C:\Users\USER\Desktop\אתי תיכנות\יד\DotnetCore\FinalProject\obj\Debug\net6.0\ref\lesson2.dll
